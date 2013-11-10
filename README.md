@@ -1,4 +1,4 @@
 coursera-machine-learning
 =========================
 
-Coursera machine learning - Sprint 2013
+Coursera machine learning - Spring 2013
